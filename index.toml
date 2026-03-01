@@ -81,11 +81,6 @@ hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "eaaacd5e9e505fe7197639db3f2c9c870a4e7e9b01ee7e6f17cbaefb09f81478"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
