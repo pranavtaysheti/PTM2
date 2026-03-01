@@ -1,0 +1,13 @@
+name = "PTM2"
+author = "Pranav Taysheti"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "83a13a7e6876eeee5004790ca676c3c4d50de7587506b68d560eb41a8c9cb631"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"
