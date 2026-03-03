@@ -26,6 +26,11 @@ hash = "3b5f3feca8b299f947ed3956e49f7c3940793754928f2f99cad936448208a501"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
 metafile = true
