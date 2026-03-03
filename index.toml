@@ -6,6 +6,11 @@ hash = "d5c7247d9c30419e3bb652e1099864304af6c016196b6e07fb560e515fe6fe5b"
 metafile = true
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "5525cfe500a324b4415516770d584eab9b0f6ca64286c55547b5403e76f63b3b"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "f803f7ff7a8f15d1741bda28f3e32ad00c828a0abb5e463f42a6b83817de40bb"
 metafile = true
 
 [[files]]
@@ -171,8 +181,23 @@ hash = "3c50e06edc3cd34bb3fd519f42b71e662a3a5aa12a90f828209a7490bca5f521"
 metafile = true
 
 [[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "4f7c443c70a28284bfb40e613c835167c9c71f2db257714275041f16e280b6d9"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "0d13e70b59a7f4623237f6b03e22368235d123030f36f18312fd20a8f7d2e459"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/flerovium.pw.toml"
+hash = "1e8c18bee7a056c9c549a77635df72723ed55bab74ee53909ebe8feefa802e03"
 metafile = true
 
 [[files]]
@@ -221,6 +246,11 @@ hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+metafile = true
+
+[[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "9163b758163681f75e2048c798be880c50392684b127d7d87f42ea588deceb62"
 metafile = true
@@ -238,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "43d7f033db4fa8d645a28c8163cbb42b48be5e47f0660ae22aa639fbf868e026"
 metafile = true
 
 [[files]]
@@ -311,6 +346,11 @@ hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
@@ -362,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
 
 [[files]]
